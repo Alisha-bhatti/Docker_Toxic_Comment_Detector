@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+torch
+easyocr
+pillow
+scikit-learn
+python-multipart
+sqlalchemy
+contractions
+numpy
